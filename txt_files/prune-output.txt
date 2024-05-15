@@ -1,0 +1,5 @@
+1	rAma	rAma	m	s	unk	unk
+2	KA	KA	f	s	a	0
+3	kara	kara	m	p	m	0
+4	so	so	f	s	a	0
+5	gayA	jA	m	s	a	yA1

@@ -1,0 +1,7 @@
+1	राम	राम	NNP	NNP	_	2	k1	_	_
+2	खा	खा	VM	VM	_	4	vmod	_	_
+3	कर	कर	VAUX	VAUX	_	2	lwg__vaux	_	_
+4	सो	सो	VM	VM	_	0	main	_	_
+5	गया	गया	VAUX	VAUX	_	4	lwg__vaux	_	_
+6	।	।	SYM	SYM	_	4	rsym	_	_
+
