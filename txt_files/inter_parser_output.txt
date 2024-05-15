@@ -1,7 +1,9 @@
-1	राम	राम	NNP	NNP	_	2	k1	_	_
-2	खा	खा	VM	VM	_	4	vmod	_	_
-3	कर	कर	VAUX	VAUX	_	2	lwg__vaux	_	_
-4	सो	सो	VM	VM	_	0	main	_	_
-5	गया	गया	VAUX	VAUX	_	4	lwg__vaux	_	_
-6	।	।	SYM	SYM	_	4	rsym	_	_
+1	घास	घास	NN	NN	_	3	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	देखकर	देखकर	VM	VM	_	7	vmod	_	_
+4	खरगोश	खरगोश	NN	NN	_	7	k1	_	_
+5	बहुत	बहुत	QF	QF	_	6	nmod__adj	_	_
+6	ख़ुश	ख़ुश	JJ	JJ	_	7	k1s	_	_
+7	हुआ	हुआ	VM	VM	_	0	main	_	_
+8	।	।	SYM	SYM	_	7	rsym	_	_
 

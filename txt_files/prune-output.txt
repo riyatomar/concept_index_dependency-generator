@@ -1,5 +1,7 @@
-1	rAma	rAma	m	s	unk	unk
-2	KA	KA	f	s	a	0
-3	kara	kara	m	p	m	0
-4	so	so	f	s	a	0
-5	gayA	jA	m	s	a	yA1
+1	GAsa	GAsa	f	s	unk	unk
+2	ko	ko	unk	unk	unk	unk
+3	xeKakara	xeKa	m	s	u	kara
+4	KaragoSa	KaragoSa	m	s	unk	unk
+5	bahuwa	bahuwa	m	s	unk	unk
+6	KZuSa	KZuSa	unk	unk	unk	unk
+7	huA	ho	m	s	a	yA

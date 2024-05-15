@@ -1,6 +1,6 @@
 import os
 
-file_name=open("sentences_for_USR","r",encoding="UTF-8")
+file_name=open("input_sentences","r",encoding="UTF-8")
 file_to_paste=open("txt_files/bh-1","r+",encoding="UTF-8")
 file_to_paste_temp=open("txt_files/bh-2","r+",encoding="UTF-8") 
 
@@ -22,7 +22,7 @@ for sentence in file_name:
         file_to_paste_temp.truncate()
        
         os.system("python3 run_script_hin_parser.py")
-        os.system("python3 complete_usr.py>hindi_parser_usr/"+s_id)
+        os.system("python3 complete_usr.py>HINDI_PARSER_USR/"+s_id)
 
     except Exception as e:
         print(e)
